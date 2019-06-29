@@ -1,6 +1,6 @@
 ## Micro fatina
 
-Micro Tween library for js13k, keep the basic features from Fatina but stripped to the maximum:
+Micro Tween library for js13k, keep the basic features from [Fatina](https://www.npmjs.com/package/fatina) but stripped to the maximum:
 * Less than 2KB
 * Provides events (`onStarted`, `onCompleted`, `onKilled`)
 * Fewer Easings (you can add back the one you need)
